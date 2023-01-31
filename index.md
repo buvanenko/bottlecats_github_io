@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: BottleCats
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+Команда разработчиков открытой антиспам системы
